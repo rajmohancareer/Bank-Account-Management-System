@@ -17,11 +17,15 @@ It demonstrates key OOP concepts such as **Encapsulation, Inheritance, Polymorph
 ---
 
 ## 📂 Project Structure
-📦 BankAccountOOP   # This is your main project folder
+📦 BankAccountOOP   # This is  main project folder
+
  ┣ 📜 BankAccount.java    # The parent class (superclass) that handles basic bank account operations
+ 
  ┣ 📜 SavingsAccount.java # A child class (subclass) that extends BankAccount and adds interest calculation
+ 
  ┣ 📜 BankMain.java       # The main class that runs the program and tests the functionality
- ┣ 📜 README.md           # The documentation file explaining your project
+
+ ┣ 📜 README.md           # The documentation file explaining  project
 
 ---
 
